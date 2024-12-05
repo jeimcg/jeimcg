@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeimcg but you can just call me Jei!
-- 👀 I’m interested in obtaining a job in analytics but on the side, I just create music and code a bit!
+- 👀 I’m interested in obtaining a job in analytics but on the side, I just create music and code!
 - 🌱 I’m currently on my journey to being a data scientist!
 - 💞️ I’m looking to collaborate on whatever comes my way!
 - 📫 I prefer emails at mcgilljei@gmail.com, thank you!

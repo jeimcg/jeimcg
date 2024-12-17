@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeimcg but you can just call me Jei!
 - 👀 I’m interested in a job in analytics but I also make music!
-- 🌱 I’m currently becoming a self-taught data scientist!
+- 🌱 I’m currently becoming a data scientist!
 - 📫 I prefer emails at mcgilljei@gmail.com, thank you!
 - 😄 Pronouns: They/Them/He/Him
 - ⚡ Fun fact: I've produced music since I was 10 and I djed my first show at 16!

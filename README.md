@@ -1,4 +1,4 @@
-- 👋 hi, im jei! this started off very professional but i think im just going to do data science, machine-learning, and full-stack projects surrounding topics that interest me such as music, psychology, and various other topics! i hope you find something you can take away from my projects and/or enjoy!
+- 👋 hi, im jei! this started off very professional but i think im just going to do data science, machine-learning, web design, and full-stack projects surrounding topics that interest me such as music, psychology, and various other things! i hope you find something you can take away from my projects and/or enjoy!
   
 - 😄 pronouns: they/them
   
